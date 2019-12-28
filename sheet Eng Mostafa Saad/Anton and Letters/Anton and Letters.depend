@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577403807 source:e:\aya\c++,c\sheet\anton and letters\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

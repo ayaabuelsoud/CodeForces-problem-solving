@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561666920 source:d:\c++,c\sheet\boyorgirl\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561662972 source:d:\c++,c\sheet\gravity&flip\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
